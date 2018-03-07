@@ -1,0 +1,24 @@
+{
+    "name": "HexagonProgress",
+    "version": "1.2.0",
+    "description": "A jQuery plugin to draw animated hexagon progress bars",
+    "license": "MIT",
+    "homepage": "https://github.com/nk-o/HexagonProgress",
+    "author": "Max Lawrence",
+    "main": "jquery.hexagonprogress.min.js",
+    "files": [
+        "jquery.hexagonprogress.js",
+        "jquery.hexagonprogress.min.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/nk-o/HexagonProgress.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nk-o/HexagonProgress/issues"
+    },
+    "keywords": [
+        "hexagon",
+        "progress"
+    ]
+}
